@@ -1,0 +1,17 @@
+.post-page {
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+  
+td, th {
+    border: 1px solid #070707;
+    text-align: left;
+    padding: 8px;
+    background-color: rgb(158, 187, 176);
+}

@@ -1,0 +1,13 @@
+.user-container {
+    min-width: 20%;
+    height: 300px;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    margin: 0 7.5px 15px;
+    flex-direction: column;
+    background-color: rgb(158, 187, 176);
+    cursor: pointer;
+}
